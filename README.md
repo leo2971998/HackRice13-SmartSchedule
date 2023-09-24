@@ -13,8 +13,11 @@
 
 ### Step 4: Import Sample Data
 - Import sample data from the file `sampledata.json`.
-
-### Step 5: Start the App
+### Step 5: Create a `.env` file
+- Create a `.env` file in the root directory of the project.
+- Add the following lines to the `.env` file:
+- OPENAI_API_KEY=YOUR_API_KEY
+### Step 6: Start the App
 - Run `npm start` to start the application.
 
 ## Available Scripts
